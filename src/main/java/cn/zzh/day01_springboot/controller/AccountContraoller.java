@@ -22,5 +22,5 @@ public class AccountContraoller {
         mv.setViewName("list");
         return mv;
     }
-
+public
 }
